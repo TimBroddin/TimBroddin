@@ -9,7 +9,7 @@ I'm Tim, a 38 year old software engineer from Antwerp, Belgium. Starting at [Aut
 - Prisma
 - VSCode
 
-Read more about my 2022 tech stack [here](https://broddin.be/2022/05/23/my-2022-mostly-frontend-programming-stack/)
+Read more about my 2022 tech stack [here](https://broddin.be/2022/05/23/my-2022-mostly-frontend-programming-stack/).
 
 
 ## GitHub stats:

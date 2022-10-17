@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Tim, a 38 year old software engineer from Antwerp, Belgium. Working at [Automattic](https://automattic.com).
+I'm Tim, a 39 year old software engineer from Antwerp, Belgium. Working at [Automattic](https://automattic.com).
 
 ## I love
 - The Web

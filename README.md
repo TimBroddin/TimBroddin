@@ -6,9 +6,9 @@ I'm Tim, a 41 year old creative coder from Antwerp, Belgium.
 - React
 - Next.js
 - Prisma
-- VSCode
+- Cursor
 
-Read more about my 2023 programming stack [here](https://broddin.be/2023/05/08/my-2023-programming-stack/).
+Read more about my 2024 programming stack [here]([https://broddin.be/2023/05/08/my-2023-programming-stack/](https://www.broddin.be/my-2024-programming-stack/)).
 
 
 ## GitHub stats:

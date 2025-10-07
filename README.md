@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Tim, a 41 year old creative coder from Antwerp, Belgium. 
+I'm Tim, a 42 year old creative coder from Antwerp, Belgium. 
 ## I love
 - The Web
 - JavaScript
@@ -7,8 +7,6 @@ I'm Tim, a 41 year old creative coder from Antwerp, Belgium.
 - Next.js
 - Laravel
 - Expo
-- Cursor
-
 
 ## GitHub stats:
 ![](https://github-readme-stats.vercel.app/api?username=timbroddin&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>

@@ -17,14 +17,14 @@
 
 I run **[Titans of Industry](https://titansofindustry.be)**, shipping iOS apps and web tools:
 
-- 🎯 **Street Viewer Pro** — Street view access app — hit when Apple dropped Google Maps in iOS 6
-- 📖 **SubStory** — A media-first browser for Reddit stories
-- 🔢 **Table Champion** — Math tables practice game for kids
-- 📝 **txt.edit** — A clean iOS text editor
-- 💀 **Endgame** — A step counter towards your death
+- 🔢 **[Table Champion](https://apps.apple.com/us/app/table-champion/id6741796505)** — Math tables practice game for kids
+- 📖 **[SubStory](https://apps.apple.com/us/app/substory-reddit-photos-videos/id6747969403)** — A media-first browser for Reddit stories
+- 📝 **[txt.edit](https://apps.apple.com/us/app/txt-edit-simple-text-editor/id1513759808)** — A clean iOS text editor
+- 💀 **[Endgame](https://apps.apple.com/us/app/endgame/id6737412117)** — A step counter towards your death
+- 🎯 **[Street Viewer Pro](https://apps.apple.com/us/app/street-view-360-panorama-maps/id493861593)** — Street view access app — hit when Apple dropped Google Maps in iOS 6
 - 🎮 **[Woordje.be](https://woordje.be)** — Dutch Wordle
 - 🎁 **[Lijsje.be](https://lijsje.be)** — Wish lists
-- 📷 **[OpenWebcamDB](https://openwebcamdb.com)** — Open webcam database
+- 📷 **[OpenWebcamDB.com](https://openwebcamdb.com)** — Open webcam database
 - 🛠️ **[TinyDev.tools](https://tinydev.tools)** — Small but handy tools for developers
 
 ### Open Source
@@ -43,7 +43,7 @@ I run **[Titans of Industry](https://titansofindustry.be)**, shipping iOS apps a
 - 📊 **[trmnl-revenuecat](https://github.com/TimBroddin/trmnl-revenuecat)** — RevenueCat metrics for TRMNL display
 - 🎨 **[DivoomAlbumArt](https://github.com/TimBroddin/DivoomAlbumArt)** — Display album art on Divoom LED panels
 - 🚂 **[m5stack-duplo-train](https://github.com/TimBroddin/m5stack-duplo-train)** — Duplo train controller for M5Stack
-- 📝 **[woordje](https://github.com/TimBroddin/woordje)** — Woordje library/package
+- 📝 **[woordje](https://github.com/TimBroddin/woordje)** — Woordje.be source code
 
 ### Legacy Work
 

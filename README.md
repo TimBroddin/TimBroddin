@@ -1,19 +1,69 @@
-# Hi there 👋
-I'm Tim, a 42 year old creative coder from Antwerp, Belgium. 
-## I love
-- The Web
-- JavaScript
-- React
-- Next.js
-- Laravel
-- Expo
+# Hi, I'm Tim 👋
 
-## GitHub stats:
-![](https://github-readme-stats.vercel.app/api?username=timbroddin&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=timbroddin&theme=city_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=timbroddin&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+📍 **Antwerp, Belgium** · 💻 **Freelance Frontend Developer** · 🏢 **[Titans of Industry](https://titansofindustry.be)**
 
-## Find me on social media
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/timbroddin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/timbroddin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/timbroddin)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/timbroddin)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
-Or on my personal website: [broddin.be](https://broddin.be)
+> Building indie apps, developer tools, and the occasional MCP server. Currently deep into App Store Optimization and shipping mobile apps.
+
+## 🔧 Projects
+
+### Apps & Products
+
+I run **[Titans of Industry](https://titansofindustry.be)**, shipping iOS apps and web tools:
+
+- 🎯 **Street Viewer Pro** — Street view access app — hit when Apple dropped Google Maps in iOS 6
+- 📖 **SubStory** — A media-first browser for Reddit stories
+- 🔢 **Table Champion** — Math tables practice game for kids
+- 📝 **txt.edit** — A clean iOS text editor
+- 💀 **Endgame** — A step counter towards your death
+- 🎮 **[Woordje.be](https://woordje.be)** — Dutch Wordle
+- 🎁 **[Lijsje.be](https://lijsje.be)** — Wish lists
+- 📷 **[OpenWebcamDB](https://openwebcamdb.com)** — Open webcam database
+- 🛠️ **[TinyDev.tools](https://tinydev.tools)** — Small but handy tools for developers
+
+### Open Source
+
+- 🤖 **[astro-mcp-server](https://github.com/TimBroddin/astro-mcp-server)** — MCP server for App Store Optimization data (⭐13)
+- 🖼️ **[appleframer.com](https://github.com/TimBroddin/appleframer.com)** — Add device bezels to Apple screenshots (⭐18)
+- 🎮 **[woordje.be](https://github.com/TimBroddin/woordje.be)** — The Dutch Wordle clone (⭐6)
+- 🔬 **[raybun](https://github.com/TimBroddin/raybun)** — Experimental TUI renderer for Spatie's Ray
+- 🛠️ **[tinydevtools](https://github.com/TimBroddin/tinydevtools)** — Small but handy tools for developers
+- 📺 **[regiotv](https://github.com/TimBroddin/regiotv)** — AppleTV app for Flemish regional TV stations
+- 🕹️ **[leorunner](https://github.com/TimBroddin/leorunner)** — Play classic LEO games in your browser
+- 🔧 **[app-store-aso-skill](https://github.com/TimBroddin/app-store-aso-skill)** — Claude Code skill for App Store ASO
+- 🧠 **[homey-openrouter](https://github.com/TimBroddin/homey-openrouter)** — LLM generation for Homey via OpenRouter
+- 📚 **[homey-bibliotheek-be](https://github.com/TimBroddin/homey-bibliotheek-be)** — Track Belgian library loans on Homey
+- 🛒 **[homey-better-shopping-list](https://github.com/TimBroddin/homey-better-shopping-list)** — Shopping list for Homey dashboards
+- 📊 **[trmnl-revenuecat](https://github.com/TimBroddin/trmnl-revenuecat)** — RevenueCat metrics for TRMNL display
+- 🎨 **[DivoomAlbumArt](https://github.com/TimBroddin/DivoomAlbumArt)** — Display album art on Divoom LED panels
+- 🚂 **[m5stack-duplo-train](https://github.com/TimBroddin/m5stack-duplo-train)** — Duplo train controller for M5Stack
+- 📝 **[woordje](https://github.com/TimBroddin/woordje)** — Woordje library/package
+
+### Legacy Work
+
+Projects that had their moment:
+
+- 🗺️ **[fruitymaps](https://github.com/TimBroddin/fruitymaps)** — Apple Maps in your browser (⭐80)
+- 💰 **[cryptocoincount](https://github.com/TimBroddin/cryptocoincount)** — Cryptocurrency balance tracker (⭐49)
+- 📺 **[ATV-AppleTV](https://github.com/TimBroddin/ATV-AppleTV)** — Flemish regional TV on Apple TV
+- 🏠 **[dailyhomealone](https://github.com/TimBroddin/dailyhomealone)** — Serverless IG bot with ML magic
+- 🐰 **[sleeping-bunny](https://github.com/TimBroddin/sleeping-bunny)** — Kids' bunny clock on Raspberry Pi
+
+## 📊 GitHub Activity
+
+![GitHub Activity Graph](https://ghchart.rshah.org/timbroddin)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=timbroddin&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true)
+
+## 🔗 Connect
+
+[![Website](https://img.shields.io/badge/broddin.be-000000?style=flat-square&logo=safari&logoColor=white)](https://broddin.be)
+[![Twitter](https://img.shields.io/badge/@TimBroddin-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/timbroddin)
+[![LinkedIn](https://img.shields.io/badge/timbroddin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/timbroddin)
+[![Titans of Industry](https://img.shields.io/badge/Titans_of_Industry-FF6B6B?style=flat-square&logo=apple&logoColor=white)](https://titansofindustry.be)

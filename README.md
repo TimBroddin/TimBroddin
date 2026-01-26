@@ -1,6 +1,6 @@
 # Hi, I'm Tim 👋
 
-📍 **Antwerp, Belgium** · 💻 **Freelance Frontend Developer** · 🏢 **[Titans of Industry](https://titansofindustry.be)**
+📍 **Antwerp, Belgium** · 💻 **Freelance Developer** · 🏢 **[Titans of Industry](https://titansofindustry.be)**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)

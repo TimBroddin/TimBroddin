@@ -29,6 +29,8 @@ I run **[Titans of Industry](https://titansofindustry.be)**, shipping iOS apps a
 
 ### Open Source
 
+- 🔨 **[cloud-build-notifier](https://github.com/TimBroddin/cloud-build-notifier)** — macOS menu bar app for monitoring Google Cloud Build projects
+- 🎨 **[DivoomAlbumArt](https://github.com/TimBroddin/DivoomAlbumArt)** — Display album art on Divoom LED panels
 - 🤖 **[astro-mcp-server](https://github.com/TimBroddin/astro-mcp-server)** — MCP server for App Store Optimization data (⭐13)
 - 🖼️ **[appleframer.com](https://github.com/TimBroddin/appleframer.com)** — Add device bezels to Apple screenshots (⭐18)
 - 🎮 **[woordje.be](https://github.com/TimBroddin/woordje.be)** — The Dutch Wordle clone (⭐6)
@@ -41,7 +43,6 @@ I run **[Titans of Industry](https://titansofindustry.be)**, shipping iOS apps a
 - 📚 **[homey-bibliotheek-be](https://github.com/TimBroddin/homey-bibliotheek-be)** — Track Belgian library loans on Homey
 - 🛒 **[homey-better-shopping-list](https://github.com/TimBroddin/homey-better-shopping-list)** — Shopping list for Homey dashboards
 - 📊 **[trmnl-revenuecat](https://github.com/TimBroddin/trmnl-revenuecat)** — RevenueCat metrics for TRMNL display
-- 🎨 **[DivoomAlbumArt](https://github.com/TimBroddin/DivoomAlbumArt)** — Display album art on Divoom LED panels
 - 🚂 **[m5stack-duplo-train](https://github.com/TimBroddin/m5stack-duplo-train)** — Duplo train controller for M5Stack
 - 📝 **[woordje](https://github.com/TimBroddin/woordje)** — Woordje.be source code
 

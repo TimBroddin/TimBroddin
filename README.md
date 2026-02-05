@@ -29,6 +29,7 @@ I run **[Titans of Industry](https://titansofindustry.be)**, shipping iOS apps a
 
 ### Open Source
 
+- 🚪 **[portie](https://github.com/TimBroddin/portie)** — macOS menu bar app for monitoring localhost ports
 - 🔨 **[cloud-build-notifier](https://github.com/TimBroddin/cloud-build-notifier)** — macOS menu bar app for monitoring Google Cloud Build projects
 - 🎨 **[DivoomAlbumArt](https://github.com/TimBroddin/DivoomAlbumArt)** — Display album art on Divoom LED panels
 - 🤖 **[astro-mcp-server](https://github.com/TimBroddin/astro-mcp-server)** — MCP server for App Store Optimization data (⭐13)

@@ -31,6 +31,7 @@ I run **[Titans of Industry](https://titansofindustry.be)**, shipping iOS apps a
 
 - 🔍 **[krankie](https://github.com/TimBroddin/krankie)** — AI-first App Store keyword ranking tracker (WIP)
 - 🚪 **[portie](https://github.com/TimBroddin/portie)** — macOS menu bar app for monitoring localhost ports
+- 📊 **[gitstatus](https://github.com/TimBroddin/gitstatus)** — macOS menubar app that monitors git status of local repositories
 - 🔨 **[cloud-build-notifier](https://github.com/TimBroddin/cloud-build-notifier)** — macOS menu bar app for monitoring Google Cloud Build projects
 - 🎨 **[DivoomAlbumArt](https://github.com/TimBroddin/DivoomAlbumArt)** — Display album art on Divoom LED panels
 - 🤖 **[astro-mcp-server](https://github.com/TimBroddin/astro-mcp-server)** — MCP server for App Store Optimization data (⭐13)

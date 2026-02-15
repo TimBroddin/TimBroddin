@@ -29,6 +29,7 @@ I run **[Titans of Industry](https://titansofindustry.be)**, shipping iOS apps a
 
 ### Open Source
 
+- 👷 **[workforce](https://github.com/TimBroddin/workforce)** — Native macOS app for managing AI coding agents (alpha)
 - 📊 **[gitstatus](https://github.com/TimBroddin/gitstatus)** — macOS menubar app that monitors git status of local repositories
 - 🔍 **[krankie](https://github.com/TimBroddin/krankie)** — AI-first App Store keyword ranking tracker (WIP)
 - 🚪 **[portie](https://github.com/TimBroddin/portie)** — macOS menu bar app for monitoring localhost ports

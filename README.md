@@ -18,6 +18,7 @@
 I run **[Titans of Industry](https://titansofindustry.be)**, shipping iOS apps and web tools:
 
 - 🔢 **[Table Champion](https://apps.apple.com/us/app/table-champion/id6741796505)** — Math tables practice game for kids
+- 🏠 ** [HomeBar for Homey Pro](https://homebar.pro)** - A macOS menubar app to control your Homey smarthome
 - 📖 **[SubStory](https://apps.apple.com/us/app/substory-reddit-photos-videos/id6747969403)** — A media-first browser for Reddit stories
 - 📝 **[txt.edit](https://apps.apple.com/us/app/txt-edit-simple-text-editor/id1513759808)** — A clean iOS text editor
 - 💀 **[Endgame](https://apps.apple.com/us/app/endgame/id6737412117)** — A step counter towards your death

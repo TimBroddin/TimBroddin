@@ -30,6 +30,7 @@ I run **[Titans of Industry](https://titansofindustry.be)**, shipping iOS apps a
 
 ### Open Source
 
+- 📸 **[snapscene](https://github.com/TimBroddin/snapscene)** — Automated App Store screenshot capture for Expo apps
 - 👷 **[workforce](https://github.com/TimBroddin/workforce)** — Native macOS app for managing AI coding agents (alpha)
 - 📊 **[gitstatus](https://github.com/TimBroddin/gitstatus)** — macOS menubar app that monitors git status of local repositories
 - 🔍 **[krankie](https://github.com/TimBroddin/krankie)** — AI-first App Store keyword ranking tracker (WIP)

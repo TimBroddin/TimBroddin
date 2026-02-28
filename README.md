@@ -30,6 +30,7 @@ I run **[Titans of Industry](https://titansofindustry.be)**, shipping iOS apps a
 
 ### Open Source
 
+- 🐙 **[octoplex](https://github.com/TimBroddin/octoplex)** — Terminal multiplexer TUI for running multiple commands in tabs
 - 📸 **[snapscene](https://github.com/TimBroddin/snapscene)** — Automated App Store screenshot capture for Expo apps
 - 👷 **[workforce](https://github.com/TimBroddin/workforce)** — Native macOS app for managing AI coding agents (alpha)
 - 📊 **[gitstatus](https://github.com/TimBroddin/gitstatus)** — macOS menubar app that monitors git status of local repositories
@@ -40,7 +41,6 @@ I run **[Titans of Industry](https://titansofindustry.be)**, shipping iOS apps a
 - 🤖 **[astro-mcp-server](https://github.com/TimBroddin/astro-mcp-server)** — MCP server for App Store Optimization data (⭐13)
 - 🖼️ **[appleframer.com](https://github.com/TimBroddin/appleframer.com)** — Add device bezels to Apple screenshots (⭐18)
 - 🎮 **[woordje.be](https://github.com/TimBroddin/woordje.be)** — The Dutch Wordle clone (⭐6)
-- 🐙 **[octoplex](https://github.com/TimBroddin/octoplex)** — Terminal multiplexer TUI for running multiple commands in tabs
 - 🔤 **[google-font-installer-mac](https://github.com/TimBroddin/google-font-installer-mac)** — TUI to search and install Google Fonts on macOS
 - 🔬 **[raybun](https://github.com/TimBroddin/raybun)** — Experimental TUI renderer for Spatie's Ray
 - 🛠️ **[tinydevtools](https://github.com/TimBroddin/tinydevtools)** — Small but handy tools for developers

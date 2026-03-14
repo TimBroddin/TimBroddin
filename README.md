@@ -30,6 +30,7 @@ I run **[Titans of Industry](https://titansofindustry.be)**, shipping iOS apps a
 
 ### Open Source
 
+- 🦔 **[PostHog Explorer](https://github.com/TimBroddin/posthog-explorer)** — Chrome extension for quickly navigating PostHog projects, dashboards & insights
 - 🐙 **[octoplex](https://github.com/TimBroddin/octoplex)** — Terminal multiplexer TUI for running multiple commands in tabs
 - 📸 **[snapscene](https://github.com/TimBroddin/snapscene)** — Automated App Store screenshot capture for Expo apps
 - 👷 **[workforce](https://github.com/TimBroddin/workforce)** — Native macOS app for managing AI coding agents (alpha)
